@@ -10,14 +10,13 @@
     "check-types": "tsc --noEmit"
   },
   "dependencies": {
-    "@faker-js/faker": "^9.9.0",
     "@repo/ui": "workspace:*",
+    "@repo/api": "workspace:*",
     "next": "^15.4.6",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
   "devDependencies": {
-    "@repo/typescript-config": "workspace:*",
     "@types/node": "^22.15.3",
     "@types/react": "19.1.0",
     "@types/react-dom": "19.1.1",

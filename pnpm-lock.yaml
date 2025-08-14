@@ -23,9 +23,9 @@ importers:
 
   apps/blog:
     dependencies:
-      '@faker-js/faker':
-        specifier: ^9.9.0
-        version: 9.9.0
+      '@repo/api':
+        specifier: workspace:*
+        version: link:../../packages/api
       '@repo/ui':
         specifier: workspace:*
         version: link:../../packages/ui
@@ -39,9 +39,6 @@ importers:
         specifier: ^19.1.0
         version: 19.1.1(react@19.1.1)
     devDependencies:
-      '@repo/typescript-config':
-        specifier: workspace:*
-        version: link:../../packages/typescript-config
       '@types/node':
         specifier: ^22.15.3
         version: 22.15.3
@@ -70,9 +67,6 @@ importers:
         specifier: ^19.1.0
         version: 19.1.0(react@19.1.0)
     devDependencies:
-      '@repo/typescript-config':
-        specifier: workspace:*
-        version: link:../../packages/typescript-config
       '@types/node':
         specifier: ^22.15.3
         version: 22.15.3
@@ -86,7 +80,11 @@ importers:
         specifier: 5.8.2
         version: 5.8.2
 
-  packages/typescript-config: {}
+  packages/api:
+    dependencies:
+      '@faker-js/faker':
+        specifier: ^9.9.0
+        version: 9.9.0
 
   packages/ui:
     dependencies:
@@ -118,9 +116,6 @@ importers:
         specifier: ^4.0.17
         version: 4.0.17
     devDependencies:
-      '@repo/typescript-config':
-        specifier: workspace:*
-        version: link:../typescript-config
       '@tailwindcss/postcss':
         specifier: ^4.1.11
         version: 4.1.11
