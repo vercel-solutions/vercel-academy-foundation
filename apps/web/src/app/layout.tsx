@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 
-import '@repo/ui/globals.css';
+import './globals.css';
 
 export const metadata: Metadata = {
   title: 'Vercel Academy Foundation - Web',
