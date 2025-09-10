@@ -192,6 +192,48 @@ During this workshop, you'll gain hands-on experience with:
 - Hot reload is enabled for rapid development
 - TypeScript is configured for type safety across the monorepo
 
+## 📝 Daily Tasks
+
+### Day 1
+- [ ] Web: Home page  
+- [ ] Web: Gallery page (set up `next/image`)  
+- [ ] Web: About page  
+- [ ] Web: Contact Us page  
+- [ ] Blog: Blog listing page  
+- [ ] UX & Styling improvements  
+- [ ] Header & Footer implementation  
+- [ ] Reusable UI components  
+- [ ] Correct colocation of UI components  
+- [ ] Nested layouts for Web and Blog  
+- [ ] Use ENV variables for linking the two apps from navigation  
+
+### Day 2
+- [ ] Web Performance: Font optimisations  
+- [ ] Web Performance: Audit Client vs Server Components  
+- [ ] Web Performance: Check for async waterfalls  
+- [ ] Web Performance: Add skeletons and loading states  
+- [ ] Blog: Dynamic route  
+- [ ] Blog: Error handling  
+- [ ] Blog: Not found handling  
+- [ ] Blog: Pagination  
+- [ ] Contact form implementation  
+
+### Day 3
+- [ ] Add SEO & metadata
+- [ ] Deploy to Vercel  
+- [ ] Web Performance: Optimise images  
+- [ ] Web Performance: Ensure correct rendering strategy  
+- [ ] Web Performance: Check Chrome DevTools Performance or Vercel Speed Insights  
+- [ ] Contact form: Add tracking (Vercel Analytics)  
+
+### Day 4
+- [ ] Security review: headers  
+- [ ] Security review: API endpoints or Actions  
+- [ ] Security review: ENV variables  
+- [ ] Build & Web Performance: Build locally  
+- [ ] Build & Web Performance: Check build output  
+- [ ] Build & Web Performance: Deploy to Vercel  
+
 ---
 
 **Good luck with your certification journey! 🎉**
