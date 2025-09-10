@@ -219,11 +219,9 @@ During this workshop, you'll gain hands-on experience with:
 - [ ] Contact form implementation  
 
 ### Day 3
-- [ ] Add SEO & metadata  
-- [ ] Add Structured Data (JSON-LD)  
+- [ ] Add SEO & metadata
 - [ ] Deploy to Vercel  
 - [ ] Web Performance: Optimise images  
-- [ ] Web Performance: Add caching (`React cache` + `unstable_cache`)  
 - [ ] Web Performance: Ensure correct rendering strategy  
 - [ ] Web Performance: Check Chrome DevTools Performance or Vercel Speed Insights  
 - [ ] Contact form: Add tracking (Vercel Analytics)  
@@ -235,11 +233,6 @@ During this workshop, you'll gain hands-on experience with:
 - [ ] Build & Web Performance: Build locally  
 - [ ] Build & Web Performance: Check build output  
 - [ ] Build & Web Performance: Deploy to Vercel  
-- [ ] Build & Web Performance: Run bundle analyzer  
-- [ ] Add example SEO redirects  
-- [ ] Stretch: Add sampling to Vercel Speed Insights  
-- [ ] Stretch: Implement home page variants based on Cookie 
-- [ ] Stretch: Add c15t cookie banner 
 
 ---
 
