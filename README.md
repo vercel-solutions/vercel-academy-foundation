@@ -238,7 +238,8 @@ During this workshop, you'll gain hands-on experience with:
 - [ ] Build & Web Performance: Run bundle analyzer  
 - [ ] Add example SEO redirects  
 - [ ] Stretch: Add sampling to Vercel Speed Insights  
-- [ ] Stretch: Implement home page variants based on Cookie  
+- [ ] Stretch: Implement home page variants based on Cookie 
+- [ ] Stretch: Add c15t cookie banner 
 
 ---
 
