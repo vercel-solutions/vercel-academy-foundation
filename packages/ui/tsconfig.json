@@ -17,6 +17,7 @@
     "target": "ES2022",
     "outDir": "dist",
     "baseUrl": ".",
+    "jsx": "preserve",
     "paths": {
       "@repo/ui/*": ["./src/*"]
     }
