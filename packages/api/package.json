@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "exports": {
-    "./src/*": "./src/*.ts"
+    "./*": "./src/*.ts"
   },
   "dependencies": {
     "@faker-js/faker": "^9.9.0"
